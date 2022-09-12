@@ -1,0 +1,16 @@
+
+FONTES E CORES DA LOGO
+=====================================
+Fontes: Berlin Sans FB Demi & Arial
+
+Cor Verde: 01C1B5
+Cor Escura: 2C3E50
+
+CORES E FONTES DO LAYOUT:
+=====================================
+Fontes: Open Sans & Oswald
+
+Cor Verde: 01C1B5
+Cor Escura: 2C3E50
+Cor Laranja: F47933
+Cor Branca: FFFFFF
